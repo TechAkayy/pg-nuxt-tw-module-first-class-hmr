@@ -9,7 +9,11 @@ import {
 export default {
   theme: {
     extend: {
-      colors: { ...pg_colors, pp: pg_colors.primary },
+      colors: {
+        ...pg_colors,
+        pp: pg_colors.primary,
+        primary: { 600: "red" },
+      },
       // colors: {
       //   brand: colors.teal['500']
       // },

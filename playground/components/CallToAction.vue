@@ -16,7 +16,7 @@
         <div class="inline-flex rounded-md shadow">
           <NuxtLink
             href="/_tailwind/"
-            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-white bg-primary-600 border border-transparent rounded-md hover:bg-primary-700"
+            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-white bg-brand border border-transparent rounded-md hover:bg-primary-700"
           >
             Open Tailwind Config Viewer
           </NuxtLink>
